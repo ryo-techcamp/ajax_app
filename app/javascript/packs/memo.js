@@ -27,7 +27,6 @@ function memo() {
       formText.value = "";
     };
     e.preventDefault();
-
   });
  }
  window.addEventListener("load", memo);
